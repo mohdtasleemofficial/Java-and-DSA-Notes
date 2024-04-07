@@ -1,0 +1,53 @@
+What is a proramming language?
+To communicate with a person, we need a specific language, similarly to communicate with computers, programmers also need a language which is called Programming language.
+
+It is a set of instructions written in any specific language
+
+A. Machine Language
+Machine language is a type of low-level programming language.
+It is a series of 0s and 1s.
+Needs no translation.
+
+B. Assembly Language
+
+It is also a type of low-level programming language that is designed for specific processors.
+It represents the set of instructions in a symbolic and human-understandable form.
+It uses an assembler to convert the assembly language to machine language.
+
+C. High level Language
+It is a developer friendly language.
+This programming language requires a compiler or interpreter to translate the program into machine language.
+
+Some More Types:
+
+A Procedural Proramming Language
+List of instructions to tell the computer, what to do step by step.
+It divides a program into small procedures called routines or functions.
+It is also called structured programming.
+Examples are FORTRAN AND C.
+
+B. Functional Programming Language
+It is an approach to problem solving.
+It treats every computation as a mathematical function.
+It allows you to write a mathematical function, i.e. a function that takes n arguments and returns a value. If the program is executed, this function is logically evaluated as needed.
+Examples are Python, Haskel
+C. Object Oriented Programming Language
+Object-Oriented Programming (OOP) language is based upon the objects.
+In this language, programs are divided into small parts called objects.
+It uses an object-oriented programming technique that binds related data and functions into an object and encourages reuse of these objects within the same and other programs.
+Example is JAVA
+D. Scripting Language
+scripting language is a programming language that employs a high-level construct to interpret and execute one command at a time.
+In general, scripting languages are easier to learn and faster to code in than more structured and compiled languages such as C and C++.
+E. Statically Typed Language
+Performs type checking at the time of compilation
+Declaration of data type is compulsion
+F. Dynamically Typed Language
+Performs type checking at Run time.
+No need to declare data types.
+Memory Management
+In Java, memory management is the process of allocation and de-allocation of objects, called Memory management. Java does memory management automatically. Java uses an automatic memory management system called a garbage collector.
+
+Stack Memory vs Heap Memory:
+Varaibles are stored in stack memory.
+Objects are stored in Heaps.
